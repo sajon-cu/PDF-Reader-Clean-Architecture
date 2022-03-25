@@ -86,7 +86,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
           .replace(R.id.content, LibraryFragment.newInstance())
           .commit()
       R.id.nav_reader -> openDocument(
-          com.raywenderlich.android.majesticreader.domain.Document.EMPTY)
+          Document.EMPTY)
     }
     val drawerLayout: DrawerLayout = findViewById(
         R.id.drawer_layout)
@@ -94,7 +94,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
     return true
   }
 
-  override fun openDocument(document: com.raywenderlich.android.majesticreader.domain.Document) {
+  override fun openDocument(document: Document) {
     nav_view.menu.findItem(R.id.nav_reader).isChecked = true
     supportFragmentManager.beginTransaction()
         .replace(R.id.content, ReaderFragment.newInstance(document))

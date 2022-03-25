@@ -1,0 +1,246 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.room:room-ktx:2.1.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/5f8adfdd3195a76d8a86e7544e1d5eea/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/6c061f28a94163405163c0ada0cf20c3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/bc69098aaaa6283a9e0a5dabf7b6f1d0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/ab789ea406123f702dc75b78e4b20b0f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/f9aa3f356f91bf9cd9663f75155674b9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/a5080549a9f855f13cf12bea65a94efd/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.1.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/cd0db2c4f82f711312c5900d61d6da36/AndroidManifest.xml:17:1-30:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/9aa941313a952c61f6b4d9c9f52e07e9/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/ec51aca0636f788a4573facc19fa7227/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/9e92dc95be5fa5370e2147ab3933a9e8/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/16a79dc1fb5286c80aa23d4e7a93b112/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/b813c3cdc112e46937f4c66bfbfd6b82/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/371187444d4d3b7cc052c0600044a1c8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/ed651a67693083a77d05928f9d761241/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/cc4feb151b1bba3a09fa51e9a834ee07/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/a8a2f59edb3b4f43b91d9d14b88169d0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/67578f7b907a61541727edcb73c83144/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/5ce85d5bf0410086299c3495be01f918/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/b6cbc3234f1dcde979279c4fe30e57ca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/4d8917c7e3bc68e812015ab67b937fe7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/616dacc564ab68e95bced392b4a0712e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/3f5bfb4da6869cd5101ea5a0348abdba/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/c38efecc044d2d1f5c4f832c3004be50/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/38f5ae853c749dd0eccb459d2acc90e9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/481613938eaf0fe991dc25c588c35560/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/12e08c9e5235562f47f8f80829c08099/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/d552b4b9e24bbad7479d48d4b317f368/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-rc01] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/7d2b0a6f8f0baa537c52f5d586403940/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/576e4ed194e5c345adb325d211a05419/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/50c2a125329c80fe700a0c82bfee92b3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/34ecad7182ac6bfad8816985087cde81/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/63c14868d87ba86a45a19ce6f045ed59/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/148720ca6d57d530f1a376635de01542/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/00dcdbf8c177f6fc08dcd8ed04630670/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/88bf6cb2aac7dcfd896f7f79fb7ff122/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/7ce0824862499ab85d3122de8ac147ef/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/677976b7aa565ae20c16fc3ec3608017/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/1782dc5384b220d344561e678812d11f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/5422fda0bb7d35e059b5b9325b8fa438/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/ba41e0ae5c459e840b8277c067a2f5e9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/71d33d07443c2a5fee827b8f9f4ac14c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/e8dfeeacf84b1f760df21447fc44613c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/b238f8975bd00116bae131ff334824fa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/c43c4a254bf797e1d64311d0ca4d5399/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/2f038b415ebf99a3465b20f383b05349/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:11-61
+		INJECTED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:3:11-69
+application
+ADDED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:5:3-27:17
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/6c061f28a94163405163c0ada0cf20c3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/6c061f28a94163405163c0ada0cf20c3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/ab789ea406123f702dc75b78e4b20b0f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/ab789ea406123f702dc75b78e4b20b0f/AndroidManifest.xml:22:5-20
+MERGED from [androidx.room:room-runtime:2.1.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/cd0db2c4f82f711312c5900d61d6da36/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.1.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/cd0db2c4f82f711312c5900d61d6da36/AndroidManifest.xml:24:5-28:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/9aa941313a952c61f6b4d9c9f52e07e9/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/9aa941313a952c61f6b4d9c9f52e07e9/AndroidManifest.xml:10:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/9e92dc95be5fa5370e2147ab3933a9e8/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/9e92dc95be5fa5370e2147ab3933a9e8/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.1.0-rc01] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/7d2b0a6f8f0baa537c52f5d586403940/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc01] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/7d2b0a6f8f0baa537c52f5d586403940/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/576e4ed194e5c345adb325d211a05419/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/576e4ed194e5c345adb325d211a05419/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/7ce0824862499ab85d3122de8ac147ef/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/7ce0824862499ab85d3122de8ac147ef/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/677976b7aa565ae20c16fc3ec3608017/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/677976b7aa565ae20c16fc3ec3608017/AndroidManifest.xml:22:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc01] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/7d2b0a6f8f0baa537c52f5d586403940/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:11:7-33
+	android:label
+		ADDED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:7:7-41
+	android:allowBackup
+		ADDED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:6:7-34
+	android:theme
+		ADDED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:9:7-58
+activity#com.raywenderlich.android.majesticreader.presentation.MainActivity
+ADDED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:13:5-17:16
+	android:label
+		ADDED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:15:9-52
+	android:theme
+		ADDED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:16:9-52
+	android:name
+		ADDED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:14:9-50
+activity#com.raywenderlich.android.majesticreader.presentation.SplashActivity
+ADDED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:20:5-26:16
+	android:name
+		ADDED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:20:15-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:21:7-25:23
+action#android.intent.action.MAIN
+ADDED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:22:9-60
+	android:name
+		ADDED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:22:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:24:9-68
+	android:name
+		ADDED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:24:19-66
+uses-sdk
+INJECTED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+INJECTED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+MERGED from [androidx.room:room-ktx:2.1.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/5f8adfdd3195a76d8a86e7544e1d5eea/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.1.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/5f8adfdd3195a76d8a86e7544e1d5eea/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/6c061f28a94163405163c0ada0cf20c3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/6c061f28a94163405163c0ada0cf20c3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/bc69098aaaa6283a9e0a5dabf7b6f1d0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/bc69098aaaa6283a9e0a5dabf7b6f1d0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/ab789ea406123f702dc75b78e4b20b0f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/ab789ea406123f702dc75b78e4b20b0f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/f9aa3f356f91bf9cd9663f75155674b9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/f9aa3f356f91bf9cd9663f75155674b9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/a5080549a9f855f13cf12bea65a94efd/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/a5080549a9f855f13cf12bea65a94efd/AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.1.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/cd0db2c4f82f711312c5900d61d6da36/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.1.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/cd0db2c4f82f711312c5900d61d6da36/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/9aa941313a952c61f6b4d9c9f52e07e9/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/9aa941313a952c61f6b4d9c9f52e07e9/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/ec51aca0636f788a4573facc19fa7227/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/ec51aca0636f788a4573facc19fa7227/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/9e92dc95be5fa5370e2147ab3933a9e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/9e92dc95be5fa5370e2147ab3933a9e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/16a79dc1fb5286c80aa23d4e7a93b112/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/16a79dc1fb5286c80aa23d4e7a93b112/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/b813c3cdc112e46937f4c66bfbfd6b82/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/b813c3cdc112e46937f4c66bfbfd6b82/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/371187444d4d3b7cc052c0600044a1c8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/371187444d4d3b7cc052c0600044a1c8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/ed651a67693083a77d05928f9d761241/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/ed651a67693083a77d05928f9d761241/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/cc4feb151b1bba3a09fa51e9a834ee07/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/cc4feb151b1bba3a09fa51e9a834ee07/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/a8a2f59edb3b4f43b91d9d14b88169d0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/a8a2f59edb3b4f43b91d9d14b88169d0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/67578f7b907a61541727edcb73c83144/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/67578f7b907a61541727edcb73c83144/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/5ce85d5bf0410086299c3495be01f918/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/5ce85d5bf0410086299c3495be01f918/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/b6cbc3234f1dcde979279c4fe30e57ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/b6cbc3234f1dcde979279c4fe30e57ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/4d8917c7e3bc68e812015ab67b937fe7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/4d8917c7e3bc68e812015ab67b937fe7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/616dacc564ab68e95bced392b4a0712e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/616dacc564ab68e95bced392b4a0712e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/3f5bfb4da6869cd5101ea5a0348abdba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/3f5bfb4da6869cd5101ea5a0348abdba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/c38efecc044d2d1f5c4f832c3004be50/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/c38efecc044d2d1f5c4f832c3004be50/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/38f5ae853c749dd0eccb459d2acc90e9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/38f5ae853c749dd0eccb459d2acc90e9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/481613938eaf0fe991dc25c588c35560/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/481613938eaf0fe991dc25c588c35560/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/12e08c9e5235562f47f8f80829c08099/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/12e08c9e5235562f47f8f80829c08099/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/d552b4b9e24bbad7479d48d4b317f368/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/d552b4b9e24bbad7479d48d4b317f368/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-rc01] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/7d2b0a6f8f0baa537c52f5d586403940/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/7d2b0a6f8f0baa537c52f5d586403940/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/576e4ed194e5c345adb325d211a05419/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/576e4ed194e5c345adb325d211a05419/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/50c2a125329c80fe700a0c82bfee92b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/50c2a125329c80fe700a0c82bfee92b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/34ecad7182ac6bfad8816985087cde81/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/34ecad7182ac6bfad8816985087cde81/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/63c14868d87ba86a45a19ce6f045ed59/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/63c14868d87ba86a45a19ce6f045ed59/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/148720ca6d57d530f1a376635de01542/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/148720ca6d57d530f1a376635de01542/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/00dcdbf8c177f6fc08dcd8ed04630670/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/00dcdbf8c177f6fc08dcd8ed04630670/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/88bf6cb2aac7dcfd896f7f79fb7ff122/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/88bf6cb2aac7dcfd896f7f79fb7ff122/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/7ce0824862499ab85d3122de8ac147ef/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/7ce0824862499ab85d3122de8ac147ef/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/677976b7aa565ae20c16fc3ec3608017/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/677976b7aa565ae20c16fc3ec3608017/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/1782dc5384b220d344561e678812d11f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/1782dc5384b220d344561e678812d11f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/5422fda0bb7d35e059b5b9325b8fa438/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/5422fda0bb7d35e059b5b9325b8fa438/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/ba41e0ae5c459e840b8277c067a2f5e9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/ba41e0ae5c459e840b8277c067a2f5e9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/71d33d07443c2a5fee827b8f9f4ac14c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/71d33d07443c2a5fee827b8f9f4ac14c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/e8dfeeacf84b1f760df21447fc44613c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/e8dfeeacf84b1f760df21447fc44613c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/b238f8975bd00116bae131ff334824fa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/b238f8975bd00116bae131ff334824fa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/c43c4a254bf797e1d64311d0ca4d5399/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/c43c4a254bf797e1d64311d0ca4d5399/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/2f038b415ebf99a3465b20f383b05349/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/2f038b415ebf99a3465b20f383b05349/AndroidManifest.xml:20:5-44
+INJECTED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+INJECTED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sajonbro/Development/Projects/Android/clean-architecture-android-materials-1/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.1.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/cd0db2c4f82f711312c5900d61d6da36/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.1.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/cd0db2c4f82f711312c5900d61d6da36/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.1.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/cd0db2c4f82f711312c5900d61d6da36/AndroidManifest.xml:26:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/677976b7aa565ae20c16fc3ec3608017/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/677976b7aa565ae20c16fc3ec3608017/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/677976b7aa565ae20c16fc3ec3608017/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/677976b7aa565ae20c16fc3ec3608017/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/sajonbro/.gradle/caches/transforms-2/files-2.1/677976b7aa565ae20c16fc3ec3608017/AndroidManifest.xml:24:13-79

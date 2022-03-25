@@ -52,7 +52,7 @@ class ReaderFragment : Fragment() {
 
   companion object {
 
-    fun newInstance(document: com.raywenderlich.android.majesticreader.domain.Document) = ReaderFragment().apply {
+    fun newInstance(document: Document) = ReaderFragment().apply {
       arguments = ReaderViewModel.createArguments(document)
     }
   }
@@ -75,7 +75,7 @@ class ReaderFragment : Fragment() {
         .get(ReaderViewModel::class.java)
 
     viewModel.document.observe(this, Observer {
-      if (it == com.raywenderlich.android.majesticreader.domain.Document.EMPTY) {
+      if (it == Document.EMPTY) {
         // Show file picker action.
         startActivityForResult(IntentUtil.createOpenIntent(), LibraryFragment.READ_REQUEST_CODE)
       }
